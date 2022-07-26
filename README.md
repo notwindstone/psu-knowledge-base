@@ -116,4 +116,7 @@ b      |       | ^
  
 # Источники информации 
 [Fluke.com](https://www.fluke.com/ru-ru/learn/blog/electrical)
-https://ru.upwiki.one/wiki/Electronic_component#Passive_components
+
+[Upwiki.net](https://ru.upwiki.one/wiki/Electronic_component)
+
+[Tomshardware.com](https://www.tomshardware.com/reviews/power-supplies-101,4193.html)
