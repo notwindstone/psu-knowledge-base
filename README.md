@@ -84,11 +84,11 @@
 
 > В отличие от варистора, который срабатывает практически мгновенно, газоразрядной трубке требуется несколько секунд для ионизации газа. Газоразрядная трубка также служит для защиты блока питания от скачков напряжения.
 
-к | впы | ап
------- | ----- |  -------
-![]()  | 4     | $
-       | 365   | (
-b      |       | ^  
+к         | впы   | ап
+------    | ----- |  -------
+![аыфв]() | 4     | $
+  в       | 365   | (
+b         |       | ^  
  
  
  
@@ -116,5 +116,7 @@ b      |       | ^
  
 # Источники информации 
 [Fluke.com](https://www.fluke.com/ru-ru/learn/blog/electrical)
+
 [Upwiki.net](https://ru.upwiki.one/wiki/Electronic_component)
-[Tomshardware.com](https://www.tomshardware.com/reviews/power-supplies-101)
+
+[Tomshardware.com](https://www.tomshardware.com/reviews/power-supplies-101,4193.html)
