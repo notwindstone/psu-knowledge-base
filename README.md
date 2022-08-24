@@ -1,3 +1,11 @@
+# Источники информации 
+
+[Tomshardware.com](https://www.tomshardware.com/reviews/power-supplies-101,4193.html)
+
+[Fluke.com](https://www.fluke.com/ru-ru/learn/blog/electrical)
+
+[Upwiki.net](https://ru.upwiki.one/wiki/Electronic_component)
+
 # Содержание
  
 * [Термины](#Термины)
@@ -91,4 +99,14 @@
 
 > В отличие от варистора, который срабатывает практически мгновенно, газоразрядной трубке требуется несколько микросекунд для ионизации газа. Газоразрядная трубка также служит для защиты блока питания от скачков напряжения.
 
- ## Топологии преобразования
+## Топологии преобразования
+
+Double Forward
+
+ACRF
+
+Half-Bridge
+
+Full-Bridge
+
+# Как сравнивать БП
