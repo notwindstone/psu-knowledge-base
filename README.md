@@ -1,10 +1,10 @@
 # Источники информации 
 
-[Tomshardware.com](https://www.tomshardware.com/reviews/power-supplies-101,4193.html)
+* [Tomshardware.com](https://www.tomshardware.com/reviews/power-supplies-101,4193.html)
 
-[Fluke.com](https://www.fluke.com/ru-ru/learn/blog/electrical)
+* [Fluke.com](https://www.fluke.com/ru-ru/learn/blog/electrical)
 
-[Upwiki.net](https://ru.upwiki.one/wiki/Electronic_component)
+* [Upwiki.net](https://ru.upwiki.one/wiki/Electronic_component)
 
 # Содержание
  
