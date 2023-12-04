@@ -1,6 +1,11 @@
+Возможно продолжу, когда придёт время снова выбирать себе БП
+
+
 # Источники информации 
 
 * [Tomshardware.com](https://www.tomshardware.com/reviews/power-supplies-101,4193.html)
+
+* [Jongerow.com](http://jongerow.com/)
 
 * [Fluke.com](https://www.fluke.com/ru-ru/learn/blog/electrical)
 
